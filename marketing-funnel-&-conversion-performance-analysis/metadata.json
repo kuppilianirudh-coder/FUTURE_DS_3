@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Funnel & Conversion Performance Analysis",
+  "description": "An interactive Data Science dashboard and code explorer to analyze marketing funnel drop-offs, campaign ROI, regional conversions, and statistical A/B testing insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
